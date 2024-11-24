@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.ef71115f.css",
-    "main.js": "/static/js/main.650f1e20.js",
-    "static/media/Size-about.png": "/static/media/Size-about.169519fe265b30aeac58.png",
-    "static/media/fonRegLog.png": "/static/media/fonRegLog.512cc63121a3ca897b74.png",
-    "static/media/Montserrat-Bold.ttf": "/static/media/Montserrat-Bold.50f0257aa1e905f4bfaf.ttf",
-    "static/media/Montserrat-Light.ttf": "/static/media/Montserrat-Light.7179b7d2ac9b599db5f9.ttf",
-    "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.24785cc015b27a3e964b.ttf",
-    "static/media/Image2.png": "/static/media/Image2.c006ecb6ff163237ed5e.png",
-    "static/media/Image1.png": "/static/media/Image1.2008e07851a3348959f4.png",
-    "static/media/Image3.png": "/static/media/Image3.d1bbf7c60f088ad8cb8d.png",
-    "index.html": "/index.html",
-    "main.ef71115f.css.map": "/static/css/main.ef71115f.css.map",
-    "main.650f1e20.js.map": "/static/js/main.650f1e20.js.map"
+    "main.css": "/aas/static/css/main.ec4377a8.css",
+    "main.js": "/aas/static/js/main.8a7e66fd.js",
+    "static/media/Size-about.png": "/aas/static/media/Size-about.169519fe265b30aeac58.png",
+    "static/media/fonRegLog.png": "/aas/static/media/fonRegLog.512cc63121a3ca897b74.png",
+    "static/media/Montserrat-Bold.ttf": "/aas/static/media/Montserrat-Bold.50f0257aa1e905f4bfaf.ttf",
+    "static/media/Montserrat-Light.ttf": "/aas/static/media/Montserrat-Light.7179b7d2ac9b599db5f9.ttf",
+    "static/media/Montserrat-Regular.ttf": "/aas/static/media/Montserrat-Regular.24785cc015b27a3e964b.ttf",
+    "static/media/Image2.png": "/aas/static/media/Image2.c006ecb6ff163237ed5e.png",
+    "static/media/Image1.png": "/aas/static/media/Image1.2008e07851a3348959f4.png",
+    "static/media/Image3.png": "/aas/static/media/Image3.d1bbf7c60f088ad8cb8d.png",
+    "index.html": "/aas/index.html",
+    "main.ec4377a8.css.map": "/aas/static/css/main.ec4377a8.css.map",
+    "main.8a7e66fd.js.map": "/aas/static/js/main.8a7e66fd.js.map"
   },
   "entrypoints": [
-    "static/css/main.ef71115f.css",
-    "static/js/main.650f1e20.js"
+    "static/css/main.ec4377a8.css",
+    "static/js/main.8a7e66fd.js"
   ]
 }
