@@ -15,3 +15,5 @@ RewriteRule ^(.*)$ index.html [L]
 
 # Обработка страниц с параметрами
 RewriteRule ^aas/(.*)$ index.html [L]
+
+ErrorDocument 404 /aas/index.html
