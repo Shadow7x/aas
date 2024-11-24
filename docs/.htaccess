@@ -12,6 +12,3 @@ RewriteRule ^ - [L]
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule ^(.*)$ index.html [L]
-
-# Обработка страниц с параметрами
-RewriteRule ^aas/(.*)$ aas/index.html [L]
