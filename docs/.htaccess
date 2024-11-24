@@ -17,3 +17,5 @@ RewriteRule ^(.*)$ index.html [L]
 RewriteRule ^aas/(.*)$ index.html [L]
 
 ErrorDocument 404 /aas/index.html
+
+FallbackResource index.html
